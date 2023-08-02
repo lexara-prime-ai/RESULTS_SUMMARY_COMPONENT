@@ -1,5 +1,9 @@
 # Frontend Mentor - Results summary component
 
+## SCREENSHOT(*Result*) :
+
+![](https://github.com/projectfinalaudio/RESULTS_SUMMARY_COMPONENT/blob/master/screenshots/screenshot.png?raw=true)
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
